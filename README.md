@@ -51,9 +51,9 @@
 - https://etherconverter.online
 
 ### Account Types, Gas, and Transactions explained
-- https://github.com/ethereum/homestead-guide/blob/master/source/contracts-and-transactions/account-types-gas-and-transactions.rst#example-transaction-cost
+- https://github.com/ethereum/homestead-guide/blob/master/source/contracts-and-transactions/account-types-gas-and-transactions.rst
 
-### Gas price costs
+### Gas prices
 - https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0
 
 ### Mnemonic code converter
